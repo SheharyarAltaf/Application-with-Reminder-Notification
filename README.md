@@ -7,8 +7,10 @@ This Python application is designed to remind you of upcoming events by sending 
 - **Desktop Notifications**: Sends a desktop notification for upcoming events.
 - **Excel Integration**: Loads events from an Excel file, making it easy to manage your events.
 - **Scheduled Checks**: Automatically checks for upcoming events every minute.
+## Example Notification:
 
-![Notification Example](https://your-image-link.com/Screenshot(94).png)
+<img src="Screenshot(94).png">
+
 
 ## Prerequisites
 
