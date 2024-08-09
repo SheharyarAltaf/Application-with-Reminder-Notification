@@ -9,7 +9,7 @@ This Python application is designed to remind you of upcoming events by sending 
 - **Scheduled Checks**: Automatically checks for upcoming events every minute.
 ## Example Notification:
 
-<img src="Screenshot(94).png">
+<img src="output.png">
 
 
 ## Prerequisites
